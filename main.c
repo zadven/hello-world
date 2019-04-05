@@ -7,6 +7,7 @@ int main()
     double c = 1.0;
     int d = 0;
     char f = 'a';
+    float g = 1.1;
     printf("hello world!\n");
     return 0;
 }
